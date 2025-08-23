@@ -26,18 +26,23 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
 
-```
-Поле для вставки кода...
-....
-....
-....
+![alt text]("D:\share\jen3")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_474.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_475.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_476.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_477.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_478.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_479.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_480.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_481.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_482.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_483.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_484.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_485.png")
+
+
+
 <img width="918" height="707" alt="image" src="https://github.com/user-attachments/assets/8c015bcc-c83b-4165-905e-15a34bcd886e" />
 
 ```
