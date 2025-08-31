@@ -116,6 +116,7 @@ build:
    - avf-runner
 
 
+`При необходимости прикрепитe сюда скриншоты
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_489.png)
@@ -158,4 +159,23 @@ build:
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_489.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_490.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_491.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_492.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_493.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_494.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_495.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_496.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_497.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_498.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_499.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_500.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_501.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_502.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_503.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_504.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_505.png)
+
