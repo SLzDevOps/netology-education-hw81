@@ -27,7 +27,7 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_463.png")
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_463.png)
 
 ![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_464.png")
 ![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_465.png")
