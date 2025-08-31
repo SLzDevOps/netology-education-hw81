@@ -115,7 +115,6 @@ build:
   tags:
    - avf-runner
 
--------------
 
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
