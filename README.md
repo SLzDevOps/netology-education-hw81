@@ -137,6 +137,8 @@ build:
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_504.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_505.png)
 
+
+### Задание 4
 ### Задание 1
 
 `Приведите ответ в свободной форме........`
@@ -153,9 +155,6 @@ build:
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_471.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_472.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_473.png)
-
-
-### Задание 4
 
 `Приведите ответ в свободной форме........`
 
