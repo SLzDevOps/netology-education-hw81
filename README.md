@@ -27,18 +27,18 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text]("D:\share\jen3")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_474.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_475.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_476.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_477.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_478.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_479.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_480.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_481.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_482.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_483.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_484.png")
+![alt text]("(https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_463.png")
+
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_464.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_465.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_466.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_467.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_468.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_469.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_470.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_471.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_472.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_473.png")
 ![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_485.png")
 
 
@@ -57,12 +57,18 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_474.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_475.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_476.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_477.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_478.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_479.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_480.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_481.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_482.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_483.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_484.png")
+![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_485.png")
 
 ```
 Поле для вставки кода...
