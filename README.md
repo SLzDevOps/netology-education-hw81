@@ -28,65 +28,49 @@
 
 
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_463.png)
-
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_464.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_465.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_466.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_467.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_468.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_469.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_470.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_471.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_472.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_473.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_485.png")
-
-
-
-<img width="918" height="707" alt="image" src="https://github.com/user-attachments/assets/8c015bcc-c83b-4165-905e-15a34bcd886e" />
-
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_464.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_465.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_466.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_467.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_468.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_469.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_470.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_471.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_472.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_473.png)
 
 
 ---
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
-
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_474.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_475.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_476.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_477.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_478.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_479.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_480.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_481.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_482.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_483.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_484.png")
-![alt text]("C:\Users\SLazer\Documents\Lightshot\Screenshot_485.png")
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_474.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_475.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_476.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_477.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_478.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_479.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_480.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_481.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_482.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_483.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_484.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_485.png)
 
 
 ---
 
 ### Задание 3
 
-`Приведите ответ в свободной форме........`
+
+Взял в яндексе 2 вм, одна сразу с gitlab, выполнил все согласно ДЗ
+
+Главные струдности - после перезапуска gitlab и вм runner получили други ip от яндекса
+долго мучался почему гитлаб лезет по url с ip ...140, хотя у меня он виден на 204 и повершел заходит по ssh.
+гугл и правка  /etc/gitlab/gitlab.rb, строка - external_url 'http://89.169.177.204'
+
+после зависла машина runner, решил добаваить 2 проца и 2гб, заспуск и новый ip - переделка runner для gitlab командами с нуля(вот тут я и словил косяк с двумя runner в конфиге)
+
 
 1. `Заполните здесь этапы выполнения, если требуется ....`
 2. `Заполните здесь этапы выполнения, если требуется ....`
@@ -97,14 +81,62 @@
 
 ```
 Поле для вставки кода...
-....
-....
-....
-....
-```
+stages:
+  - test
+  - sonar_test
+  - build
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+test:
+  stage: test
+  image: golang:1.17
+  script: 
+   - go test .
+  tags:
+    - avf-runner
+
+static-analysis_job:
+ stage: sonar_test
+ image:
+  name: sonarsource/sonar-scanner-cli
+  entrypoint: [""]
+ variables:
+ script:
+  - sonar-scanner -Dsonar.projectKey=avf-netology -Dsonar.sources=. -Dsonar.host.url=http://51.250.20.179:9000 -Dsonar.login=sqp_f540116b9ebef0546166b4fea8f303c4683bbae1
+ tags:
+  - avf-runner
+
+
+
+build:
+  stage: build
+  image: docker:latest
+  script:
+   - docker build .
+  tags:
+   - avf-runner
+
+-------------
+
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_489.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_490.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_491.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_492.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_493.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_494.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_495.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_496.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_497.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_498.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_499.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_500.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_501.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_502.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_503.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_504.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_505.png)
+
+
 
 ### Задание 4
 
