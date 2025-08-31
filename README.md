@@ -22,7 +22,7 @@
 
 ---
 
-### Задание 1
+### Задание 1 - Практическое задание с самопроверкой «GIT»
 
 `Приведите ответ в свободной форме........`
 
@@ -42,7 +42,7 @@
 
 ---
 
-### Задание 2
+### Задание 2 - Практическое задание с самопроверкой «Что такое DevOps. CI/CD»
 
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_474.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_475.png)
@@ -60,7 +60,7 @@
 
 ---
 
-### Задание 3
+### Задание 3 - GitLab
 
 
 Взял в яндексе 2 вм, одна сразу с gitlab, выполнил все согласно ДЗ
