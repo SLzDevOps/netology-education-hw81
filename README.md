@@ -137,6 +137,22 @@ build:
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_504.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_505.png)
 
+### Задание 1
+
+`Приведите ответ в свободной форме........`
+
+
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_463.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_464.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_465.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_466.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_467.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_468.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_469.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_470.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_471.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_472.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_473.png)
 
 
 ### Задание 4
