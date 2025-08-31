@@ -71,13 +71,13 @@
 
 после зависла машина runner, решил добаваить 2 проца и 2гб, заспуск и новый ip - переделка runner для gitlab командами с нуля(вот тут я и словил косяк с двумя runner в конфиге)
 
+вот тут то я и просидел 3 часа ищя ошибку ERROR: error during connect: Head "http://docker:2375/_ping": dial tcp: lookup docker on 10.0.2.2:53: 
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+соответственно новый runner создался без строки сокета
+volumes = ["/cache", "/var/run/docker.sock:/var/run/docker.sock"]
+и я это ковырял... ... ... ...
+
+когда уже поправил, удалил и перезапустил все стало хорошо! 
 
 ```
 Поле для вставки кода...
@@ -115,7 +115,7 @@ build:
   tags:
    - avf-runner
 
-
+```
 `При необходимости прикрепитe сюда скриншоты
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
@@ -138,23 +138,8 @@ build:
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_505.png)
 
 
+
 ### Задание 4
-### Задание 1
-
-`Приведите ответ в свободной форме........`
-
-
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_463.png)
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_464.png)
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_465.png)
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_466.png)
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_467.png)
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_468.png)
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_469.png)
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_470.png)
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_471.png)
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_472.png)
-![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_473.png)
 
 `Приведите ответ в свободной форме........`
 
