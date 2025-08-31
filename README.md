@@ -118,6 +118,7 @@ build:
 -------------
 
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
+![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_488.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_489.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_490.png)
 ![alt text](https://github.com/SLzDevOps/netology-education-hw81/blob/main/Screenshot_491.png)
